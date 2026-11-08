@@ -1,0 +1,9 @@
+config/db.properties
+db.properties
+out/
+output/*
+target/
+*.class
+*.jar
+.vscode/
+.idea/
